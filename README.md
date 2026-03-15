@@ -71,8 +71,8 @@ Olá! Me chamo **Mário Bezerra dos Santos** e sou estudante de tecnologia, apai
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSantoss&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSantoss&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -84,7 +84,11 @@ Olá! Me chamo **Mário Bezerra dos Santos** e sou estudante de tecnologia, apai
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://github.com/MarioSantoss/MarioSantoss/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarioSantoss/MarioSantoss/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarioSantoss/MarioSantoss/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/MarioSantoss/MarioSantoss/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
